@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E28E36D423EC87798E52E2BF482E9F7A1E6479D6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : 0,
+    "272F684BDB48C12FB82F63EFB90FF2436BBA2473" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0654E3D1-4B30-4BF2-BF52-0C6285452D56",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E28E36D423EC87798E52E2BF482E9F7A1E6479D6" : "SDWebImage\/",
+    "272F684BDB48C12FB82F63EFB90FF2436BBA2473" : "SDWebImage\/Vendors\/libwebp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SDWebImage",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SDWebImage.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/chromium.googlesource.com\/webm\/libwebp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "272F684BDB48C12FB82F63EFB90FF2436BBA2473"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Dcard\/SDWebImage.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E28E36D423EC87798E52E2BF482E9F7A1E6479D6"
+    }
+  ]
+}
